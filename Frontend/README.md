@@ -1,12 +1,31 @@
-# React + Vite
+# ⚛️ React + Vite Frontend App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern frontend application built with **React** and **Vite** for lightning-fast development and optimized production builds.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **React** – Modern UI library
+- **Vite** – Next-gen frontend build tool
+- **ESLint + Prettier** – Linting and formatting
+- **React Router** – SPA routing (optional)
+- **Tailwind CSS** – Utility-first CSS (optional)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/CyberSparkx/Ai-Caption-Generator.git
+cd Frontend
+npm install
+
+npm run dev
+npm run build
+npm run preview
+
+
+👤 Author
+Made by Naren Roy with ❤️
+
